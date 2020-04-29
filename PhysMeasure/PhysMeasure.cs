@@ -3,7 +3,7 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-public class Measurement : UdonSharpBehaviour
+public class PhysMeasure : UdonSharpBehaviour
 {
     public float smooth_vel = 0.2f;
     public float smooth_acc = 0.2f;
